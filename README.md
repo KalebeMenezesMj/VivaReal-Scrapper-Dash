@@ -2,6 +2,20 @@
 
 Sistema completo de coleta e visualização de dados imobiliários do VivaReal, desenvolvido com React, TypeScript, Vite e Supabase.
 
+## Créditos e Desenvolvimento
+
+Este projeto foi **desenvolvido integralmente com o auxílio de Inteligência Artificial**, utilizando o [**bolt.new**](https://bolt.new) em sua versão **bolt.diy**, que roda localmente na máquina, com suporte do modelo **Gemini 2.5 Pro**.
+
+O uso da IA possibilitou:
+
+* Geração de código em React, TypeScript, Vite e Python
+* Criação da arquitetura do projeto
+* Automação de partes do scraping e integração com Supabase
+* Documentação inicial (incluindo este README)
+
+O processo foi conduzido de forma iterativa, onde a IA auxiliou desde a concepção até a implementação final.
+
+
 ## Funcionalidades
 
 ### Dashboard Principal
