@@ -146,19 +146,9 @@ O arquivo `.env` já está configurado com as credenciais do Supabase.
 
 ## Recursos Implementados
 
-- Debounce de 300ms nos filtros para otimizar consultas
 - Filtros dependentes (bairros filtrados por cidade)
 - Paginação com navegação inteligente
 - Estados de loading e error
 - Design responsivo para mobile e desktop
 - Atualização em tempo real do monitor de jobs
 - Backup automático em Excel
-
-## Próximas Melhorias
-
-- Cache de consultas frequentes
-- Filtros salvos pelo usuário
-- Busca fuzzy com tolerância a erros
-- Filtros geográficos por proximidade
-- Gráficos e visualizações avançadas
-- Export de dados filtrados
