@@ -101,8 +101,6 @@ python scripts/webscrapping.py
 
 ### 3. Variáveis de Ambiente
 
-O arquivo `.env` já está configurado com as credenciais do Supabase.
-
 ## Banco de Dados
 
 ### Tabelas
